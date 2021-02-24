@@ -1,0 +1,2 @@
+# brainfuck-ulearn-
+делегаты 
